@@ -1,0 +1,10 @@
+﻿  TicTacToe.c
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(234,27): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "int *" und "int" unterschiedlich
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(234,21): warning C4024: "win": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(275,27): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "int *" und "int" unterschiedlich
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(275,21): warning C4024: "win": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(205,1): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "int" und "int *" unterschiedlich
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(207,1): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "int" und "int *" unterschiedlich
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(351,6): warning C4013: "gets" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\TicTacToe\TicTacToe.c(364): warning C4716: "Eingabe": Muss einen Wert zurückgeben
+  TicTacToe.vcxproj -> C:\Users\Tobias\source\repos\1_2CHEL\TicTacToe\Debug\TicTacToe.exe
